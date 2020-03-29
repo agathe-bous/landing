@@ -1,0 +1,29 @@
+a{
+	text-decoration: none;
+
+}
+
+.btn{
+	background-color: rgb(37, 79, 46);
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family:'Raleway', sans-serif; 
+	letter-spacing: 2px;
+}
+
+.btn:hover{
+	font-size: 19px;
+
+
+}
+
+.small{
+	font-size: 12px;
+}
+
+.small:hover{
+	color: rgb(200, 200, 200);
+	font-size: 12px;
+}
